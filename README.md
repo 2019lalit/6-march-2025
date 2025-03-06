@@ -1,1 +1,3 @@
-# 6-march-2025
+types of databse 
+why we use database
+cap theoram
